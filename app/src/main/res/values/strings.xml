@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomMaterialSlideTab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="ColorPrimary">#00838F</color>
+    <color name="ColorPrimaryDark">#006064</color>
+    <color name="ColorPrimaryAscend">#26A69A</color>
+    <color name="offWhite">#B2DFDB</color>
+    <color name="white">#FFFFFF</color>
+</resources>
