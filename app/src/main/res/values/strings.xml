@@ -6,6 +6,6 @@
     <color name="ColorPrimary">#00838F</color>
     <color name="ColorPrimaryDark">#006064</color>
     <color name="ColorPrimaryAscend">#26A69A</color>
-    <color name="offWhite">#B2DFDB</color>
+    <color name="ColorBody">#B2DFDB</color>
     <color name="white">#FFFFFF</color>
 </resources>
