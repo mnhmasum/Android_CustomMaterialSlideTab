@@ -1,9 +1,5 @@
 package materialtab.msm.com.custommaterialslidetab;
 
-import android.app.ActivityOptions;
-import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
