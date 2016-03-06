@@ -31,7 +31,6 @@ import android.view.ViewGroup;
 import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 /**
@@ -229,8 +228,7 @@ public class SlidingTabLayout extends HorizontalScrollView {
         View tabView = null;
         int[] imageResId = {
                 R.drawable.coins,
-                R.drawable.credit,
-                R.drawable.coins};
+                R.drawable.credit};
 
         CharSequence Titles[] = {"TK 146","TK 148"};
 
